@@ -47,6 +47,10 @@ class MainActivity : AppCompatActivity() {
             ),
             Receita("Escondidinho de carne seca", "45 min", R.drawable.carne4,
                 listOf("1 KG de carne seca",  "2 colheres de manteiga", "3 dentes de alho", "1 cebola", "3 ovos", "Farinha de trigo")
+            ),
+
+            Receita("Pizza Quatro-Queijos", "45 min", R.drawable.pizza,
+            listOf("80g provolene",  "2 colheres de manteiga", "3 dentes de alho", "1 cebola", "3 ovos", "1 KG Farinha de trigo")
             )
 
 
